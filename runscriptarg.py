@@ -1,5 +1,5 @@
 # !/usr/bin/python
-#walk directory tree function
+#Walk directory tree function
 #ls -aR 
 #find . -name '*' -type f 
 #comparing files with a pattern named filesFound
