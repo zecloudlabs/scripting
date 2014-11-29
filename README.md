@@ -1,8 +1,8 @@
-SRE-Revenue week1 first challenge.
+#SRE-Revenue week1 first challenge.
 
-My 6 liners is running faster than my one liner. See results below and look for 
+**My 6 liners is running faster than my one liner. See results below and look for 
 Time elapsed 0.5599999999999999 milliseconds VS Time elapsed  VS Time elapsed 0.5599999999999999 milliseconds 
-
+```
 wondesire-lm:devscript-to-git ibata$ ruby luc_ibata_scripting.rb
 Enter directory name
 .
@@ -136,4 +136,4 @@ sub
 sub/another-file-in-sub.py
 Time elapsed 0.8989999999999999 milliseconds
 wondesire-lm:devscript-to-git ibata$
-
+```
